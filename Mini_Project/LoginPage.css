@@ -1,0 +1,78 @@
+body{
+  	margin:1;
+	 padding:0;
+	 background: url(hospi.jpg);
+	 background-size:100%;
+	 background-repeat:no-repeat;
+	 font-family:san-serif;
+	
+	 }
+
+.loginbox{
+    	width:350px;
+	   height:550px;
+	   opacity:0.9;
+	   background:#eef;
+	   color:#000;
+	   top:10%;
+	   left:48%;
+	   position:absolute;
+	   transform:translate(-50% -50%);
+	   box-sizing:border-box;
+	   padding:100px 30px;
+		 border-radius:50px;
+		 font-size: 18px;
+		 align-items: center;
+}
+
+.user{
+       border-radius:50%;
+	   position:absolute;
+	   top:7;
+	   left:121px;
+}
+
+.loginbox input{
+       width:100%;}
+	   
+h1{
+       margin:10;
+	   padding:0 0 30px;
+       text-align:center;
+}
+
+.loginbox input[type="text"] , input[type="password"]{
+       border:none;
+	   border-bottom:1px solid black;
+	   background:transparent;
+	   outline:none;
+	   height:30px;
+	   color:#8b0000;
+		 font-size:16px;
+	   }
+
+.loginbox input[type="Submit"]{
+	   border:none;
+	   outline:none;
+	   height:40px;
+	   background:#214357;
+	   color:#fff;
+	   font-size:20px;
+	   border-radius:5px;
+	   }
+	   
+.loginbox input[type="Submit"]:hover{
+			 cursor:pointer;
+	 
+	   }
+	   
+	   .loginbox a{
+       color:#1f0202;
+	   font-size:18px;
+		 line-height:20px;
+	   }
+.loginbox a:hover{
+       cursor:pointer;
+	  
+	   color:rgba(52, 53, 54, 0.616);
+	   }

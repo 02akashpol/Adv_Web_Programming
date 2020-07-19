@@ -1,0 +1,61 @@
+.custom{ column-count : 2;
+  }
+
+h1{
+  background-color: darkslategray;
+  color: white;
+}
+
+p{
+    background-color: ghostwhite;
+    font-size: 17px;
+    margin-left: 2.8%;
+    margin-right: 2.8%;
+}
+
+h3{
+  color: #008dc9;
+  font-size: 25px;
+  margin-left: 1%;
+}
+
+h4{
+  font-size: 20px;
+  margin-left: 1.5%;
+}
+
+ul{
+  color: #008dc9;
+  font-size: 18px;
+  margin-left: 2%;
+}
+
+.container{
+  background-image: url(https://www.who.int/images/default-source/default-album/6257137837-ae67b76e0b-k.tmb-1920v.jpg?sfvrsn=481125ac_1);
+  width: 84%;
+  height: 40vh;
+  background-position: 12% 40%;
+  margin-left: 8%;
+
+}
+
+.text-container{
+ 
+}
+.header1{
+  font-size: 25px;
+  width: 30%;
+  background-color: rgba(0,141,201,0.85);
+  color: white;
+  margin-left: 3%;
+  padding: 1%;
+}
+
+.header2{
+  font-size: 20px;
+  width: 25%;
+  background-color: rgba(0,141,201,0.85);
+  color: white;
+  margin-left: 3%;
+  padding: 1%;
+}
